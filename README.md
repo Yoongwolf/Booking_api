@@ -183,4 +183,4 @@ The database is seeded with the following classes:
 ## Submission
 
 * **GitHub Repository**: [https://github.com/Yoongwolf/Booking\_api](https://github.com/Yoongwolf/Booking_api)
-* **Loom Video**: *\[Link to be provided]*
+* **Loom Video**: *\[https://www.loom.com/share/5a588dde859d4a87b43080d519dfbf2b?sid=e7d6259e-ebc5-4705-a0d4-da9b1cce2267)]*
